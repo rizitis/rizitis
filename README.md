@@ -51,3 +51,5 @@ o;                                                  ..,::;;;:;;lloooolc:clcccc::
                      .........'..''....'..'',;,;,;;cc::c:ccclc:clcccc;::::;:;;:;,;;::;::,,,'','';;',,'.''.',,;,;;,;;;;;cc:::::::::;,;;;;;;;;,,,'.',,,,,,,,,,,,
                      
 ```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=LONG+LIVE+SLACKWARE+1993-2023;ONES+YOU+GO+SLACK+YOU+NEVER+GO+BACK;Keep+It+Simple+Stupid;Slackware+Intelligent+)](https://git.io/typing-svg)
