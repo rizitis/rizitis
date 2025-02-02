@@ -4,6 +4,9 @@
 - Κύριε Ιησού Χριστέ ελέησε με.
 - [![committers.top badge](https://user-badge.committers.top/greece/rizitis.svg)](https://user-badge.committers.top/greece/rizitis)
 
-![Paradeisos](./poupame-re.png)
+![PouPame-re](./poupame-re.png)
+![lol](./1.png)
+![lol](./2.png)
+![lol](./3.png)
 
 
