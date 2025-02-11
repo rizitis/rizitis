@@ -5,9 +5,6 @@
 - [![committers.top badge](https://user-badge.committers.top/greece/rizitis.svg)](https://user-badge.committers.top/greece/rizitis)
 - [![committers.top badge](https://user-badge.committers.top/greece_public/rizitis.svg)](https://user-badge.committers.top/greece_public/rizitis)
 
-![PouPame-re](./poupame-re.png)
-![lol](./1.png)
-![lol](./2.png)
-![lol](./3.png)
+
 
 
