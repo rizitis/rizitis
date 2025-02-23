@@ -6,7 +6,7 @@
 - [![committers.top badge](https://user-badge.committers.top/greece_public/rizitis.svg)](https://user-badge.committers.top/greece_public/rizitis)
 
 ---
-![CloneViz](https://github.com/rizitis/CloneViz/blob/main/Figure_1.png?raw=true)
+![CloneViz](https://github.com/rizitis/CloneViz/blob/main/Figure_1.png)
 
 
 
