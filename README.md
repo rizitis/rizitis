@@ -5,10 +5,5 @@
 - Κύριε Ιησού Χριστέ ελέησε με
 --- 
 
-- [![committers.top badge](https://user-badge.committers.top/greece_public/rizitis.svg)](https://user-badge.committers.top/greece_public/rizitis)
-- [![committers.top badge](https://user-badge.committers.top/greece/rizitis.svg)](https://user-badge.committers.top/greece/rizitis)
-
----
-
 
 
