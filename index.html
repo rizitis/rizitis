@@ -1,47 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
-    <!-- Additional head elements such as stylesheets or scripts can be included here -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>UNIX Terminal - Matrix Style</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #00FF00;
+      font-family: "Courier New", Courier, monospace;
+      padding: 20px;
+      line-height: 1.5;
+    }
+
+    .terminal {
+      max-width: 800px;
+      margin: 0 auto;
+      background-color: #111;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 20px #00FF00;
+    }
+
+    .prompt {
+      color: #00FF00;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 0.15em solid #00FF00;
+      animation: typing 4s steps(30, end), blink-caret 0.75s step-end infinite;
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+
+    @keyframes blink-caret {
+      from, to { border-color: transparent }
+      50% { border-color: #00FF00; }
+    }
+
+    pre.ascii {
+      color: #00FF00;
+      font-size: 14px;
+    }
+
+    a {
+      color: #00FF00;
+      text-decoration: underline;
+    }
+
+    footer {
+      margin-top: 40px;
+      color: #00FF00;
+      font-size: 0.8rem;
+      text-align: center;
+      opacity: 0.6;
+    }
+  </style>
 </head>
 <body>
+  <div class="terminal">
+    <h1>Welcome to the Matrix</h1>
+    <pre class="ascii">
 
-    <header>
-        <h1>Welcome to My Website</h1>
-    </header>
 
-    <nav>
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
+ _______  _______  _______  _______    _______           _______  _______
+(  ____ \(  ___  )(       )(  ____ \  (  ___  )|\     /|(  ____ \(  ____ )
+| (    \/| (   ) || () () || (    \/  | (   ) || )   ( || (    \/| (    )|
+| |      | (___) || || || || (__      | |   | || |   | || (__    | (____)|
+| | ____ |  ___  || |(_)| ||  __)     | |   | |( (   ) )|  __)   |     __)
+| | \_  )| (   ) || |   | || (        | |   | | \ \_/ / | (      | (\ (
+| (___) || )   ( || )   ( || (____/\  | (___) |  \   /  | (____/\| ) \ \__
+(_______)|/     \||/     \|(_______/  (_______)   \_/   (_______/|/   \__/
 
-    <main>
-        <section id="home">
-            <h2>Home</h2>
-            <p>This is the home section of my website.</p>
-        </section>
 
-        <section id="about">
-            <h2>About</h2>
-            <p>This is the about section of my website.</p>
-        </section>
 
-        <section id="contact">
-            <h2>Contact</h2>
-            <p>This is the contact section of my website.</p>
-        </section>
-    </main>
+    </pre>
+
+    <p><span class="prompt">user@matrix:~$</span> ls -la</p>
+    <p>drwxr-xr-x  5 user user  4096 Mar  9  2025 .</p>
+    <p>drwxr-xr-x 12 root root  4096 Mar  9  2025 ..</p>
+    <p>-rw-r--r--  1 user user   220 Mar  9  2025 README.md</p>
+    <p>-rw-r--r--  1 user user   514 Mar  9  2025 secrets.txt</p>
+
+    <p><span class="prompt">user@matrix:~$</span> cat secrets.txt</p>
+    <p>The secret of the universe is 42.</p>
+
+    <p><span class="prompt">user@matrix:~$</span> <a href="#">Disconnect</a></p>
 
     <footer>
-        <p>&copy; 2023 My Website. All rights reserved.</p>
+      &copy; 2025 rizitis. No rights reserved.
     </footer>
-
-    <!-- Additional body elements or scripts can be included here -->
-
+  </div>
 </body>
 </html>
